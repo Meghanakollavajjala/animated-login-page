@@ -1,6 +1,4 @@
-# animated-login-page
-# Animated Login Page
-
+# Animated-login-page
 This repository contains an animated login page developed as part of a web development internship at Motioncut. The project focuses on creating a visually appealing and interactive login form using CSS animations and transitions.
 
 ## Description
