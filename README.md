@@ -22,3 +22,9 @@ The animated login page features a modern and dynamic user interface designed to
 - HTML
 - CSS
 
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/animated-login-page.git
+
