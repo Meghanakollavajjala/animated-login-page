@@ -27,4 +27,6 @@ The animated login page features a modern and dynamic user interface designed to
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/animated-login-page.git
+## Live Demo
 
+Check out the live demo of the animated login page [here](https://meghanakollavajjala.github.io/animated-login-page/).
